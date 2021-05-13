@@ -30,6 +30,12 @@ the underlying software stack.
 ![EXPRESS](https://img.shields.io/static/v1?label=%20&message=EXPRESS&color=000000&logoColor=white&style=for-the-badge&logo=express)
 ![RUBY ON RAILS](https://img.shields.io/static/v1?label=%20&message=RUBY%20ON%20RAILS&color=CC0000&logoColor=white&style=for-the-badge&logo=ruby%20on%20rails)
 
+![MYSQL](https://img.shields.io/static/v1?label=%20&message=MYSQL&color=4479A1&logoColor=white&style=for-the-badge&logo=mysql)
+![MONGODB](https://img.shields.io/static/v1?label=%20&message=MONGODB&color=47A248&logoColor=white&style=for-the-badge&logo=mongodb)
+
+![RABBITMQ](https://img.shields.io/static/v1?label=%20&message=RABBITMQ&color=FF6600&logoColor=white&style=for-the-badge&logo=rabbitmq)
+![REDIS](https://img.shields.io/static/v1?label=%20&message=REDIS&color=DC382D&logoColor=white&style=for-the-badge&logo=redis)
+
 ![QT](https://img.shields.io/static/v1?label=%20&message=QT/QML&color=41CD52&logoColor=white&style=for-the-badge&logo=qt)
 
 ![REACT](https://img.shields.io/static/v1?label=%20&message=REACT&color=61DAFB&logoColor=white&style=for-the-badge&logo=react)
