@@ -14,12 +14,18 @@ working with Embedded Linux customization so I'm good to debugging,
 reverse engineering, investigating and solving problems regardless of
 the underlying software stack.
 
-## Skills
+- 🔭 I’m currently working on [ShellHub](https://github.com/shellhub-io/shellhub)
+- 👯 I’m looking to collaborate on **anything free and open source**
+- 💬 Ask me about `Linux`, `C/C++`, `Qt/QML`, `Golang`, `Node.js`, `RubyOnRails` and `Docker`
+- 📫 How to reach me **gustavosbarreto@gmail.com**
 
-![LINUX](https://img.shields.io/static/v1?label=%20&message=LINUX&color=F9C500&logoColor=white&style=flat-square&logo=linux)
+## Languages & Tools
+
+![Linux](https://img.shields.io/static/v1?label=%20&message=Linux&color=F9C500&logoColor=white&style=flat-square&logo=linux)
 ![DEBIAN](https://img.shields.io/static/v1?label=%20&message=Debian&color=A81D33&logoColor=white&style=flat-square&logo=debian)
 ![ARCH LINUX](https://img.shields.io/static/v1?label=%20&message=Arch%20Linux&color=1793D1&logoColor=white&style=flat-square&logo=arch%20linux)
 ![ALPINE LINUX](https://img.shields.io/static/v1?label=%20&message=Alpine%20Linux&color=0D597F&logoColor=white&flat-square&logo=alpine%20linux)
+
 
 ![C++](https://img.shields.io/static/v1?label=%20&message=C%2B%2B&color=00599C&logoColor=white&style=flat-square&logo=c%2B%2B)
 ![GOLANG](https://img.shields.io/static/v1?label=%20&message=Golang&color=6AD6E3&logoColor=white&style=fflat-square&logo=go)
