@@ -19,7 +19,40 @@ the underlying software stack.
 - 💬 Ask me about `Linux`, `C/C++`, `Qt/QML`, `Golang`, `Node.js`, `RubyOnRails` and `Docker`
 - 📫 How to reach me **gustavosbarreto@gmail.com**
 
-## Languages & Tools
+
+<details>
+  <summary>:book: Read more</summary>
+
+## Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="ShellHub" src="https://user-images.githubusercontent.com/86747/118304863-9796e780-b4bd-11eb-81c6-4d2edd789b91.png"/>](https://shellhub.io)
+
+**Tech Lead and Software Engineer** \
+[**ShellHub**](https://shellhub.io/) • Full-time \
+Languages & Technologies
+: `Golang`, `Vue.js`, `Docker`, `OpenResty/NGINX`, `MongoDB`, `Redis`, `Kubernetes` \
+Featured Projects: [shellhub](https://github.com/shellhub-io/shellhub)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="UpdateHub" src="https://user-images.githubusercontent.com/86747/118305061-dc228300-b4bd-11eb-8f93-ffdf938e9b5d.png"/>](https://updatehub.io)
+
+**Software Engineer and DevOps** \
+[**UpdateHub**](https://updatehub.io) • Full-time \
+Languages & Technologies: `RubyOnRails`, `Node.js`, `Golang`, `React`, `Docker`, `RabbitMQ`, `Rancher` \
+Featured Projects: [updatehub](https://github.com/updatehub/updatehub/tree/v1), [updatehub-ce](https://github.com/updatehub/updatehub-ce)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="O.S. Systems" src="https://user-images.githubusercontent.com/86747/118305218-07a56d80-b4be-11eb-929b-037eaff284b9.png"/>](https://ossystems.com.br)
+
+**Linux Software Engineer** \
+[**O.S. Systems**](https://ossystems.com.br) • Full-time \
+Languages & Technologies: `C++`, `Qt/QML`, `Yocto`, `Debian Tools`, `NetworkManager`, `Systemd`, `D-BUS`, `Udev` \
+Featured Projects: [qt-kiosk-browser](https://github.com/OSSystems/qt-kiosk-browser), [qconnman-ui](https://github.com/OSSystems/qconnman-ui)
+<br/>
+<br/>
+
+## Languages & Technologies
 
 ![Linux](https://img.shields.io/static/v1?label=%20&message=Linux&color=FCC624&logoColor=black&style=flat-square&logo=linux)
 ![DEBIAN](https://img.shields.io/static/v1?label=%20&message=Debian&color=A81D33&logoColor=white&style=flat-square&logo=debian)
@@ -55,3 +88,5 @@ the underlying software stack.
 
 ![DIGITALOCEAN](https://img.shields.io/static/v1?label=%20&message=DigitalOcean&color=0080FF&logoColor=white&style=flat-square&logo=digitalocean)
 ![AMAZON AWS](https://img.shields.io/static/v1?label=%20&message=Amazon%20AWS&color=232F3E&logoColor=white&style=flat-square&logo=amazon%20aws)
+
+</details>
