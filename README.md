@@ -39,6 +39,12 @@ Featured Projects: [updatehub](https://github.com/updatehub/updatehub/tree/v1), 
 Languages & Technologies: `C++`, `Qt/QML`, `Yocto`, `Debian Tools`, `NetworkManager`, `Systemd`, `D-BUS`, `Udev` \
 Featured Projects: [qt-kiosk-browser](https://github.com/OSSystems/qt-kiosk-browser), [qconnman-ui](https://github.com/OSSystems/qconnman-ui), [qt-json-rpc](https://github.com/OSSystems/qt-json-rpc), [EasySplash](https://github.com/OSSystems/EasySplash/), [toscoterm](https://github.com/OSSystems/toscoterm), [inih](https://github.com/OSSystems/inih)
 <br/>
+
+At O.S. Systems, I worked as a software engineer, developing customized solutions for embedded Linux with a focus on creating tailored operating systems. I utilized tools such as the Yocto Project and the Debian/Ubuntu SystemBuildTools ecosystem to build Linux distributions adapted to the specific needs of various devices and applications. This experience allowed me to work with a variety of programming languages and delve into different Linux subsystems, granting me a deep understanding of how Linux operates. It also provided me with valuable expertise in debugging and resolving complex issues.
+In addition, I contributed to the development of applications for embedded Linux, using C++/Qt to create GUI and Golang to implement efficient and high-performance system daemons.
+
+---
+
 <br/>
 
 ## Languages & Technologies
