@@ -1,15 +1,12 @@
 # About Me
 
-With over 15 years of experience as a software engineer, I specialize in Linux and related open-source technologies.
+With almost 20 years of experience as a software engineer, I specialize in Linux and related open-source technologies.
 Throughout my career, I've worked with a diverse array of programming languages and technologies. I have strong Linux architecture knowledge, acquired while working with Embedded Linux, which makes me proficient in debugging, reverse engineering, investigating, and solving problems regardless of the underlying software stack.
 
 - 🔭 Currently leading the [ShellHub](https://github.com/shellhub-io/shellhub) project
 - 👯 Open to collaborating on any free and open source projects
 - 💬 Feel free to ask me about Linux, `C/C++`, `Qt/QML`, `Golang`, `Node.js`, `Ruby on Rails`, `Vue` and `Docker`
 - 📫 Reach me at **gustavosbarreto@gmail.com**
-
-<details>
-  <summary>:book: Read more</summary>
 
 ## Work Experience
 In the overview below you will find my most recent work experience:
@@ -22,6 +19,10 @@ Languages & Technologies
 : `Golang`, `Vue.js`, `Docker`, `OpenResty/NGINX`, `MongoDB`, `Redis`, `Kubernetes` \
 Featured Projects: [shellhub](https://github.com/shellhub-io/shellhub)
 <br/>
+
+As the founder and creator of ShellHub, I envisioned and developed the initial MVP, laying the architectural and functional foundation for a modern platform designed to manage and access remote devices via SSH. I lead the core team, making key technical and product decisions to ensure the platform evolves in line with strategic goals while fostering a collaborative and high-performing development environment. Additionally, I actively engage with the open-source community, managing a project that has earned significant recognition with over 1,500 stars on GitHub.
+
+---
 
 [<img align="left" height="94px" width="94px" alt="UpdateHub" src="https://user-images.githubusercontent.com/86747/118305061-dc228300-b4bd-11eb-8f93-ffdf938e9b5d.png"/>](https://updatehub.io)
 
@@ -36,7 +37,7 @@ Featured Projects: [updatehub](https://github.com/updatehub/updatehub/tree/v1), 
 **Linux Software Engineer** \
 [**O.S. Systems**](https://ossystems.com.br) • Full-time \
 Languages & Technologies: `C++`, `Qt/QML`, `Yocto`, `Debian Tools`, `NetworkManager`, `Systemd`, `D-BUS`, `Udev` \
-Featured Projects: [qt-kiosk-browser](https://github.com/OSSystems/qt-kiosk-browser), [qconnman-ui](https://github.com/OSSystems/qconnman-ui)
+Featured Projects: [qt-kiosk-browser](https://github.com/OSSystems/qt-kiosk-browser), [qconnman-ui](https://github.com/OSSystems/qconnman-ui), [qt-json-rpc](https://github.com/OSSystems/qt-json-rpc), [EasySplash](https://github.com/OSSystems/EasySplash/), [toscoterm](https://github.com/OSSystems/toscoterm), [inih](https://github.com/OSSystems/inih)
 <br/>
 <br/>
 
@@ -76,5 +77,3 @@ Featured Projects: [qt-kiosk-browser](https://github.com/OSSystems/qt-kiosk-brow
 
 ![DIGITALOCEAN](https://img.shields.io/static/v1?label=%20&message=DigitalOcean&color=0080FF&logoColor=white&style=flat-square&logo=digitalocean)
 ![AMAZON AWS](https://img.shields.io/static/v1?label=%20&message=Amazon%20AWS&color=232F3E&logoColor=white&style=flat-square&logo=amazon%20aws)
-
-</details>
