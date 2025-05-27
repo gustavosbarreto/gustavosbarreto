@@ -3,6 +3,8 @@
 With almost 20 years of experience as a software engineer, I specialize in Linux and related open-source technologies.
 Throughout my career, I've worked with a diverse array of programming languages and technologies. I have strong Linux architecture knowledge, acquired while working with Embedded Linux, which makes me proficient in debugging, reverse engineering, investigating, and solving problems regardless of the underlying software stack.
 
+I currently lead the development and product strategy of [ShellHub](https://shellhub.io), driving its evolution and ensuring its growth. My role encompasses guiding the technical direction, overseeing product development, and fostering strong community engagement.
+
 - 🔭 Currently leading the [ShellHub](https://github.com/shellhub-io/shellhub) project
 - 👯 Open to collaborating on any free and open source projects
 - 💬 Feel free to ask me about Linux, `C/C++`, `Qt/QML`, `Golang`, `Node.js`, `Ruby on Rails`, `Vue` and `Docker`
